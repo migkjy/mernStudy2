@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // Router를 사용하면, App.js에서 Routes를 사용할 수 있다.
+  // Router를 사용하면, App.js에서 Routes를 사용할 수 있다. 저장
   <React.StrictMode>
     <Router>
       <App />
